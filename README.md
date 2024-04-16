@@ -18,4 +18,4 @@ This landing page serves as a central hub linking to each project developed duri
 
 ## Deployment
 
-The landing page is hosted on GitHub Pages and can be accessed [here](https://<username>.github.io/nia-davis-cis301).
+The landing page is hosted on GitHub Pages and can be accessed [here](https://niadavis.github.io/nia-davis-cis301).
